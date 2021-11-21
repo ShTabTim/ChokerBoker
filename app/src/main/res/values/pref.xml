@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="UI_joystick_size">24mm</dimen>
+    <dimen name="UI_Pause_size">11mm</dimen>
+    <dimen name="UI_slot_size">7.857142mm</dimen>
+    <dimen name="UI_slot_size_rom">0.7857142mm</dimen>
+    <dimen name="UI_inv_size_x">45.571428mm</dimen>
+    <dimen name="UI_inv_size1_x">45.571428mm</dimen>
+    <dimen name="UI_inv_size_y">11mm</dimen>
+    <dimen name="UI_inv_size1_y">9.428571mm</dimen>
+</resources>
